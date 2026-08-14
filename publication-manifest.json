@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "path": ".nojekyll",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "assets/style.css",
+      "sha256": "ce6e14804eab91881ceb7846de1a7cf64b3d5b06a6a94377f3542711a78eda3c"
+    },
+    {
+      "path": "index.html",
+      "sha256": "ef1162168f445f2d003259e4499d221e4c590567ba8020894daf4c19b66b85c0"
+    }
+  ],
+  "publication_date": "2026-08-14",
+  "publication_id": "co-boundary-prototype-001",
+  "schema_version": 1
+}
